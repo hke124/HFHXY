@@ -2,7 +2,7 @@
 #### 琉璃神社修改版
 ## 首先感谢yueeng大佬，他的代码非常酷炫，质量超高
 ## 大佬地址：[点击查看](https://github.com/yueeng/hacg)
-[![HACG](https://raw.githubusercontent.com/hke124/HFHXY/refs/heads/main/Screenshot_2025-06-12-02-44-57-221_io.github.yueeng.hacg.jpg)]
+![screenshot01]https://raw.githubusercontent.com/hke124/HFHXY/refs/heads/main/Screenshot_2025-06-12-02-44-57-221_io.github.yueeng.hacg.jpg)
 - 原版的只是不太适合本人体验，不代表大众想法
 - 改版1：禁用了所有左右滑动事件。本人低端机上特别容易误触
 - 改版2：增加了跳转翻页功能，屏幕右下角可以打开。主要是如果想翻遍整个网站的情况下，没有翻页确实不行。
