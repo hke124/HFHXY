@@ -1,4 +1,9 @@
 ## 风花雪月移动版
+#### HFHXY 5.0
+- 重大更新
+- 页面优化
+- 内容丰富
+#### publish: https://github.com/hke124/HFHXY/releases
 #### 琉璃神社修改版
 ## 首先感谢yueeng大佬，他的代码非常酷炫，质量超高
 ## 大佬地址：[点击查看](https://github.com/yueeng/hacg)
