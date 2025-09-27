@@ -86,5 +86,8 @@
 
 
 #### screenshot
------------- | ------------- |------------- |------------- |------------- |------------- |
-![screenshot01](https://raw.githubusercontent.com/hke124/HFHXY/refs/heads/main/Screenshot_2025-09-27-06-49-33-913_com.hke.hfhxy.jpg)|![screenshot02](https://raw.githubusercontent.com/hke124/HFHXY/refs/heads/master/Screenshot_2025-09-27-06-49-47-418_com.hke.hfhxy.jpg)|![screenshot03](https://raw.githubusercontent.com/hke124/HFHXY/refs/heads/master/Screenshot_2025-09-27-06-36-18-201_com.hke.hfhxy.jpg)|![screenshot04](https://raw.githubusercontent.com/hke124/HFHXY/refs/heads/master/Screenshot_2025-09-27-06-49-50-228_com.hke.hfhxy.jpg)|![screenshot05](https://raw.githubusercontent.com/hke124/HFHXY/refs/heads/master/Screenshot_2025-09-27-06-51-13-579_com.hke.hfhxy.jpg)|![screenshot06](https://raw.githubusercontent.com/hke124/HFHXY/refs/heads/master/Screenshot_2025-09-27-06-50-01-031_com.hke.hfhxy.jpg)
+导航 | 首页 | 首页 |  
+------------ | ------------- |------------- 
+![screenshot01](https://raw.githubusercontent.com/hke124/HFHXY/refs/heads/master/Screenshot_2025-09-27-06-49-33-913_com.hke.hfhxy.jpg)|![screenshot02](https://raw.githubusercontent.com/hke124/HFHXY/refs/heads/master/Screenshot_2025-09-27-06-49-47-418_com.hke.hfhxy.jpg)|![screenshot03](https://raw.githubusercontent.com/hke124/HFHXY/refs/heads/master/Screenshot_2025-09-27-06-36-18-201_com.hke.hfhxy.jpg)
+功能 | 图片浏览 | 搜索
+|![screenshot04](https://raw.githubusercontent.com/hke124/HFHXY/refs/heads/master/Screenshot_2025-09-27-06-49-50-228_com.hke.hfhxy.jpg)|![screenshot05](https://raw.githubusercontent.com/hke124/HFHXY/refs/heads/master/Screenshot_2025-09-27-06-51-13-579_com.hke.hfhxy.jpg)|![screenshot06](https://raw.githubusercontent.com/hke124/HFHXY/refs/heads/master/Screenshot_2025-09-27-06-50-01-031_com.hke.hfhxy.jpg)
