@@ -62,6 +62,14 @@
 - 隐藏模式入口：手动开启获取手机信息权限，进入设置，添加所有网站。
 #### publish: https://github.com/hke124/HFHXY/releases
 
+#### HFHXY 10.0
+- 网站增加
+- 功能增加：长按功能，翻译，视频浏览
+- 相关工具：AI免费工具
+
+软件推荐 | 长按功能 | 常用功能 |  
+------------ | ------------- |------------- 
+![screenshot01](https://github.com/hke124/HFHXY/blob/master/Screenshot_2025-10-29-21-22-02-904_com.hke.hfhxy.webp)|![screenshot02](https://github.com/hke124/HFHXY/blob/master/Screenshot_2025-10-29-21-28-17-767_com.hke.hfhxy.webp)|![screenshot03](https://github.com/hke124/HFHXY/blob/master/Screenshot_2025-10-29-21-48-05-534_com.hke.hfhxy.webp)
 #### HFHXY 8.0
 - 网站增加："绮梦ACG",
 "PorCore",
@@ -73,7 +81,6 @@
 - 所有页面全部重做，使之更符合手机浏览习惯
 - 增加相关网页的直连域名（南+，风花雪月...现在都可以直连了）
 - 增加了综合搜索
-#### publish: https://github.com/hke124/HFHXY/releases
 #### 琉璃神社修改版
 ## 首先感谢yueeng大佬，他的代码非常酷炫，质量超高
 ## 大佬地址：[点击查看](https://github.com/yueeng/hacg)
