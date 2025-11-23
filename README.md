@@ -60,16 +60,28 @@
 "LSP福利社",
 - 资源更新中。
 - 隐藏模式入口：手动开启获取手机信息权限，进入设置，添加所有网站。
+- QQ裙讨论：341591816 验证：HFHXY
 #### publish: https://github.com/hke124/HFHXY/releases
+#### HFHXY 11.0
+- 1.返回功能菜单
+可以自定义打开的程序或者网址。主要用于应用内打开代理app。首页长按返回键开启。
+- 2.搜索快捷方式
+-长按图标显示快捷方式--综合搜索
+- 3.网站权限控制
+重构了权限功能
+- 4.收藏增加了搜索功能
+- 5.收藏增加了导出，导入功能
+支持html文件导入
+- 6.增加网速测试
+- 7.网站的增加以及优化
 
+收藏搜索 | 网站测速 | 快捷方式 |  
+------------ | ------------- |------------- 
+![screenshot01](https://github.com/hke124/HFHXY/blob/master/Screenshot_2025-11-22-05-27-29-318_com.hke.hfhxy.webp)|![screenshot02](https://github.com/hke124/HFHXY/blob/master/Screenshot_2025-11-23-05-58-11-005_com.hke.hfhxy.webp)|![screenshot03](https://github.com/hke124/HFHXY/blob/master/Screenshot_2025-11-24-04-10-02-723_com.miui.home.webp)
 #### HFHXY 10.0
 - 网站增加
 - 功能增加：长按功能，翻译，视频浏览
 - 相关工具：AI免费工具
-
-软件推荐 | 长按功能 | 常用功能 |  
------------- | ------------- |------------- 
-![screenshot01](https://github.com/hke124/HFHXY/blob/master/Screenshot_2025-10-29-21-22-02-904_com.hke.hfhxy.webp)|![screenshot02](https://github.com/hke124/HFHXY/blob/master/Screenshot_2025-10-29-21-28-17-767_com.hke.hfhxy.webp)|![screenshot03](https://github.com/hke124/HFHXY/blob/master/Screenshot_2025-10-29-21-48-05-534_com.hke.hfhxy.webp)
 #### HFHXY 8.0
 - 网站增加："绮梦ACG",
 "PorCore",
@@ -93,8 +105,8 @@
 
 
 #### screenshot
-导航 | 首页 | 首页 |  
+导航 | 首页 | 常用功能 |  
 ------------ | ------------- |------------- 
-![screenshot01](https://raw.githubusercontent.com/hke124/HFHXY/refs/heads/master/Screenshot_2025-09-27-06-49-33-913_com.hke.hfhxy.jpg)|![screenshot02](https://raw.githubusercontent.com/hke124/HFHXY/refs/heads/master/Screenshot_2025-09-27-06-49-47-418_com.hke.hfhxy.jpg)|![screenshot03](https://raw.githubusercontent.com/hke124/HFHXY/refs/heads/master/Screenshot_2025-09-27-06-36-18-201_com.hke.hfhxy.jpg)
+![screenshot01](https://raw.githubusercontent.com/hke124/HFHXY/refs/heads/master/Screenshot_2025-09-27-06-49-33-913_com.hke.hfhxy.jpg)|![screenshot02](https://raw.githubusercontent.com/hke124/HFHXY/refs/heads/master/Screenshot_2025-09-27-06-49-47-418_com.hke.hfhxy.jpg)|![screenshot03](https://github.com/hke124/HFHXY/blob/master/Screenshot_2025-10-29-21-48-05-534_com.hke.hfhxy.webp)
 功能 | 图片浏览 | 搜索
 |![screenshot04](https://raw.githubusercontent.com/hke124/HFHXY/refs/heads/master/Screenshot_2025-09-27-06-49-50-228_com.hke.hfhxy.jpg)|![screenshot05](https://raw.githubusercontent.com/hke124/HFHXY/refs/heads/master/Screenshot_2025-09-27-06-51-13-579_com.hke.hfhxy.jpg)|![screenshot06](https://raw.githubusercontent.com/hke124/HFHXY/refs/heads/master/Screenshot_2025-09-27-06-50-01-031_com.hke.hfhxy.jpg)
