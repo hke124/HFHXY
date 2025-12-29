@@ -62,6 +62,12 @@
 - 隐藏模式入口：手动开启获取手机信息权限，进入设置，添加所有网站。
 - QQ裙讨论：341591816 验证：HFHXY
 #### publish: https://github.com/hke124/HFHXY/releases
+#### HFHXY 11.6
+- 1.更新了NHentei(类似eh)
+- 2.增加了漫画下载功能
+- 3.实用工具里增加了账号管理功能
+- 4.对一些网站的登陆验证进行了优化
+- 5.INCESTFLIX过期，飞极速过期
 #### HFHXY 11.0
 - 1.返回功能菜单
 可以自定义打开的程序或者网址。主要用于应用内打开代理app。首页长按返回键开启。
@@ -78,21 +84,6 @@
 收藏搜索 | 网站测速 | 快捷方式 |  
 ------------ | ------------- |------------- 
 ![screenshot01](https://github.com/hke124/HFHXY/blob/master/Screenshot_2025-11-22-05-27-29-318_com.hke.hfhxy.webp)|![screenshot02](https://github.com/hke124/HFHXY/blob/master/Screenshot_2025-11-23-05-58-11-005_com.hke.hfhxy.webp)|![screenshot03](https://github.com/hke124/HFHXY/blob/master/Screenshot_2025-11-24-04-10-02-723_com.miui.home.webp)
-#### HFHXY 10.0
-- 网站增加
-- 功能增加：长按功能，翻译，视频浏览
-- 相关工具：AI免费工具
-#### HFHXY 8.0
-- 网站增加："绮梦ACG",
-"PorCore",
-"ACG嘤嘤怪",
-"ACG港湾",
-"稻荷GAL",
-"老王论坛",
-"LSP福利社"
-- 所有页面全部重做，使之更符合手机浏览习惯
-- 增加相关网页的直连域名（南+，风花雪月...现在都可以直连了）
-- 增加了综合搜索
 #### 琉璃神社修改版
 ## 首先感谢yueeng大佬，他的代码非常酷炫，质量超高
 ## 大佬地址：[点击查看](https://github.com/yueeng/hacg)
