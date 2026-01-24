@@ -9,62 +9,14 @@
 - 很多网站带有登陆验证，这种不一定非要注册账号，很多只是机器人验证。
 - 现有两种模式，一种正常模式，另一种隐藏模式。
 - 正常收录网站： "Switch520", "IGAME游戏基地","MYCOMIC","flysheep","Koyso","飞极速在线",
-- 隐藏模式收录网站： 
-"风花雪月",
-"点点资源",
-"南+",
-"F95ZONE",
-"2048论坛",
-"HOTPIC",
-"NICETITS",
-"4096社区",
-"CRAZYS",
-"BOOMBO",
-"JAV",
-"FUSKATOR",
-"RULE",
-"RULE34GEN",
-"PICHUNTER",
-"PICTOA",
-"ZBPORN",
-"X3VID",
-"SEX8",
-"草榴社區",
-"SOGO論壇",
-"Switch520",
-"IGAME游戏基地",
-"XHAND",
-"HANIME1",
-"MISSAV",
-"MYCOMIC",
-"INCESTFLIX",
-"GAMCORE",
-"EPORNER",
-"XHAMSTER",
-"WATCHPORN",
-"XVIDEOS",
-"CFAKE",
-"Bad.news",
-"维秘影视",
-"桃花视频",
-"SUNPORNO",
-"Koyso",
-"flysheep",
-"飞极速在线",
-"绮梦ACG",
-"PorCore",
-"ACG嘤嘤怪",
-"ACG港湾",
-"稻荷GAL",
-"老王论坛",
-"LSP福利社",
+- 隐藏模式收录网站：点点资源,风花雪月,南+,绮梦ACG,稻荷GAL,星月号,ACG嘤嘤怪,ACG港湾,LSP福利社,F95ZONE,GAMCORE,flysheep,IGAME游戏基地,Koyso,Switch520,2DFan,司机社,AiCelebs,CFAKE,DeepHot,RULE34GEN,Kemono,Xpainter.art,create porn,create porn GIFS,老王论坛,4096社区,CRAZYS,SEX8,SOGO論壇,草榴社區,2048论坛,AVFan,JAV,JavCup,JAVlibrary,MISSAV,321AV,BOOMBO,FUSKATOR,Flashing Jungle,HOTPIC,NICETITS,PICHUNTER,PICTOA,X3VID,TITSINTOPS,WALKINGGIFS,HANIME1,MYCOMIC,NHentai,海兔影院,樱花动漫,策驰影院,爱壹帆,飞极速在线,桃花视频,维秘影视,哈哈影视,肉视频,好色TV,AGE动漫,Bad.news,EPORNER,MovieFap,PORNGUR,Pornhub,PorCore,PORZO,INCESTFLIX,WATCHPORN,RULE,SUNPORNO,THEY ARE HUGE,XHAND,XHAMSTER,XVIDEOS,ZBPORN,TABOOTUBE,TabooPorn,FamilyPorn,电影线上看
 - 资源更新中。
 - 隐藏模式入口：手动开启获取手机信息权限，进入设置，添加所有网站。
 - QQ裙讨论：341591816 验证：HFHXY
 #### publish: https://github.com/hke124/HFHXY/releases
 #### 隐藏模式入口
 两种方式（二选一即可）
-- 1.进入应用系统权限管理页面，打开获取手机信息权限。长按桌面图标（网站管理），点击已选下拉选框，选择自己喜欢的网站，保存。重启。
+- 1.进入应用系统权限管理页面，打开获取手机信息权限。长按桌面图标，点击快捷方式-网站管理，点击已选下拉选框，选择自己喜欢的网站，保存。重启。
 - 2.点击设置说明->点击自定义返回功能->将上面网站的名称输入进去，中间用,或者换行符。在首页长按返回键执行。
 #### HFHXY 11.6
 - 1.更新了NHentei(类似eh)
